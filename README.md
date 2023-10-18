@@ -25,7 +25,7 @@
 
 ## Tech Stack🛠️:
 <div align="center">
-   <a href="https://github.com/arhamansari11"> 
+   <a href="https://github.com/GulshairAhmad1"> 
       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,materialui,php,mysql,firebase,git,github,figma,vscode,netlify,discord,vscodeqt&perline=6" /> 
     </a>
 </div>
@@ -47,10 +47,10 @@
 
 
 <p align="center">
-    <a href="https://github.com/arhamansari11">
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arhamansari11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arhamansari11&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+    <a href="https://github.com/GulshairAhmad1">
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GulshairAhmad1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GulshairAhmad1&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" />
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=GulshairAhmad1&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" />
 </p>
 
