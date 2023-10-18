@@ -37,8 +37,8 @@
 
 <p align="center">
     <a href="https://github.com/GulshairAhmad1">
-        <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GulshairAhmad1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
-        <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GulshairAhmad1&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+        <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GulshairAhmad1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GulshairAhmad1&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
-    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=GulshairAhmad1&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" />
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=GulshairAhmad1&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" />
 </p>
